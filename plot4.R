@@ -1,5 +1,5 @@
 # set working directory
-setwd("G:/R/Workspace/ExploratoryDataAnalysis")
+setwd("G:/R/Workspace/ExploratoryDataAnalysis")   ### Has to be changed to your own working directory
 if (!file.exists("Project1")) {
   dir.create("Project1")
 }
