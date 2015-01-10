@@ -46,4 +46,3 @@ with(power, plot(DateTime, Global_reactive_power, xlab = "datetime", ylab = "Glo
 
 dev.off()
 
-
